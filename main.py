@@ -61,4 +61,4 @@ async def on_guild_join(guild):
 keep_alive.keep_alive()
 
 # Finally, login the bot
-bot.run("NjQ2ODU4NTMyMzcyODczMjI2.XnkFpg.TSDQ0ATkVhGJK2ZBG29EBODJ-NU", bot=True, reconnect=True)
+bot.run("########################", bot=True, reconnect=True)
