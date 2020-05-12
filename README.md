@@ -5,5 +5,5 @@ This is made with `python`, so if any of you are intrested in joining the Modera
 **Note: when you apply for the team please include some kind of improvement to the bot you would add.**
 
 
-See ya,
+*Hasta Luego*,
 [@the_dank_boi293](https://discordapp.com/users/624384023132635146) | [@DankBoi293](https://github.com/DankBoi293)
